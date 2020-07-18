@@ -1,0 +1,13 @@
+.btn.btn-primary.btn-lg.btn-block {
+  font-size: xx-large;
+  color: inherit;
+  border-style: outset;
+  border-color: initial;
+  background-image: linear-gradient(to right, #0cebeb 0%, #20e3b2 51%, #0cebeb 100%);
+}
+
+.btn:not(:disabled):not(.disabled) {
+  background-image: linear-gradient(to right, #1F1C2C 0%, #928DAB 51%, #1F1C2C 100%;
+  background-position: right center;
+}
+
